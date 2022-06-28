@@ -1,0 +1,15 @@
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\bin\Debug\net6.0\Unit2_BasicLoops.exe
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\bin\Debug\net6.0\Unit2_BasicLoops.deps.json
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\bin\Debug\net6.0\Unit2_BasicLoops.runtimeconfig.json
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\bin\Debug\net6.0\Unit2_BasicLoops.dll
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\bin\Debug\net6.0\Unit2_BasicLoops.pdb
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.csproj.AssemblyReference.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.AssemblyInfoInputs.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.AssemblyInfo.cs
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.csproj.CoreCompileInputs.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.dll
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\refint\Unit2_BasicLoops.dll
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.pdb
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\Unit2_BasicLoops.genruntimeconfig.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\Unit2_BasicLoops\Unit2_BasicLoops\obj\Debug\net6.0\ref\Unit2_BasicLoops.dll
