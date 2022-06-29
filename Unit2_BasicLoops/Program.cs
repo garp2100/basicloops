@@ -32,15 +32,5 @@
 //    break;
 //}
 
-//door keypad entry exercise
-Console.WriteLine("Please enter a number: ");
-int input = int.Parse(Console.ReadLine());
-if (input == 1579)
-    {
-        Console.WriteLine("you got the right code");
-    }
-    else
-    {
-        Console.WriteLine("You got the wrong code");
-    }
+
 
