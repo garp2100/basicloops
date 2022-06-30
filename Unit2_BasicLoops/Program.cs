@@ -17,12 +17,12 @@ while (true)
     int input = int.Parse(Console.ReadLine());
     for (int i = 0; i < input; i++)
     {
-        Console.Write(i);
+        Console.Write(i+ "\n");
     }
 
     for (int j = input; j > 0; j--)
     {
-        Console.Write(j);
+        Console.Write(j + "\n");
     }
 
     while (true)
